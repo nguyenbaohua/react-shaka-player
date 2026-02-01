@@ -1,0 +1,31 @@
+# Source code (because it's already build in dist folder)
+src/
+
+# Config files
+.github/
+.vscode/
+.husky/
+.commitlintrc.js
+.prettierrc
+.eslintrc.json
+tsconfig.json
+rollup.config.mjs
+tsup.config.ts
+jest.config.js
+
+# Test file and document
+tests/
+examples/
+docs/
+CONTRIBUTING.md
+CHANGELOG.md
+
+# logs and dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+

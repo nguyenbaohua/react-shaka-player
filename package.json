@@ -1,15 +1,17 @@
 {
-  "name": "react-shaka-player",
+  "name": "shaka-player-react-kit",
   "version": "0.0.1-alpha.1",
   "description": "A lightweight Shaka Player wrapper for React",
   "main": "dist/index.js",
-  "module": "dist/index.esm.js",
-  "types": "dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
   "peerDependencies": {
     "react": ">=16.8.0",
     "shaka-player": "^4.0.0"
-  }
+  },
+  "author": "Nguyenbao",
+  "license": "MIT",
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ]
 }

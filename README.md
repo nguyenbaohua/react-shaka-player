@@ -1,6 +1,6 @@
-# shaka-player-react-kit
+# react-shaka
 
-A lightweight, robust Shaka Player wrapper for React, making high-quality video streaming (DASH, HLS) easy and declarative.
+Shaka Player wrapper for React, making high-quality video streaming (DASH, HLS) easy and declarative.
 
 ---
 

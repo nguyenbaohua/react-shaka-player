@@ -1,0 +1,16 @@
+{
+  "name": "react-shaka",
+  "version": "0.0.1-alpha.1",
+  "description": "React Component for Shaka Player",
+  "main": "dist/index.js",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "shaka-player": "^4.0.0"
+  },
+  "author": "Nguyenbao",
+  "license": "MIT",
+  "files": [
+    "README.md",
+    "LICENSE"
+  ]
+}
